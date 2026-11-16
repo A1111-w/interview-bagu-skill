@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试八股陪练"
+  short_description: "Java 与 Agent 逐题面试，按实际回答评分，支持连续掌握、到期复习和断点续练"
+  default_prompt: "使用 $interview-bagu 开始 Java 与 Agent 交替面试，读取本地进度，一次问一道题并根据我的回答评分。"
